@@ -1,0 +1,25 @@
+h1{
+  font-size: 38px;
+  color: #1f57a0;
+}
+h1.logo{
+  font-size: 58px;
+  color: #5b1fa0;
+}
+
+h3{
+  color: #5b1fa0;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+ul li{
+  list-style-type: square;
+}
+
+ol li{
+  list-style: lower-alpha;
+}
